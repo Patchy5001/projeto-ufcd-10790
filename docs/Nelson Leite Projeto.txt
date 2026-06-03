@@ -1,0 +1,6 @@
+Nelson Leite 
+
+Projeto simples de gestão de stock onde ira ser possível adicionar e remover produtos e adicionar e remover a sua quantidade isso tudo armazenado em SQL.
+Com a grande dificuldade no gerenciamento de stock de pequenos armazéns ou negócios gerir produtos assim acaba sempre por ser mais fácil.
+
+Se der tempo iriei fazer algo para a autentificação e assim so deixar apenas administradores adicionem ou removam produtos enquanto os funcionarios possam tambem retirar as quantidades e implementar um historico de movimentos para registrar quem tirou ou adicionou cada produto e a data realizada.
